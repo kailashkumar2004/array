@@ -4,6 +4,16 @@
 // for (var i of arr1) {
 //     if (!arr2.includes(i)) {
 //         emptyarray.push(i)
-//     }
-// }
-// console.log(emptyarray)
+//     };
+// };
+// console.log(emptyarray);
+
+// let name = ["kailash", "priya", "aanu", "rita", "manvi", "moni", "kunal"];
+// let name1 = ["savita", "aanu", 'manvi', "moni", "chandani", "sangita", "radha"];
+// var emptyarray = [];
+// for (var i of name) {
+//     if (!name1.includes(i)) {
+//         emptyarray.push(i)
+//     };
+// };
+// console.log(emptyarray);

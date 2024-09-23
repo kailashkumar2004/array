@@ -1,3 +1,15 @@
-// var array = [1, 8, 9, 6, 4, 3, 2, 11, 34, 56, 32, 90, 87, 65];
-// array.fill("kiwi")
-// console.log(array)
+// let name1 = ["savita", "aanu", 'manvi', "moni", "chandani", "sangita", "radha"];
+// name1.fill("kiwi");
+// console.log(name1);
+
+// let names = ["savita", "aanu", 'manvi', "moni", "chandani", "sangita", "radha"];
+// names.fill("kiwi", 4, 6);
+// console.log(names);
+
+// let arr = [10, 98, 54, 32, 37, 89, 65, 43, 23, 45, 67, 11];
+// arr.fill("kiwi");
+// console.log(arr);
+
+// const arr = [10, 98, 54, 32, 37, 89, 65, 43, 23, 45, 67, 11];
+// arr.fill("kiwi", 4, 8);
+// console.log(arr);

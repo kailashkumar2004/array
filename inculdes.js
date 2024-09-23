@@ -1,9 +1,19 @@
-// var arr1 = [12, 57, 89, 40, 90, 32, 45, 11, 14, 67, 38, 95, 27];
-// var arr2 = [27, 95, 89, 11, 45, 87, 54, 100, 32, 64, 20, 80, 51];
-// var emptyarray = []
-// for (var i of arr1) {
-//     if (arr2.includes(i)) {
-//         emptyarray.push(i)
-//     }
-// }
-// console.log(emptyarray)
+// var arr = [89, 32, 12, 31, 26, 78, 90, 67, 56, 54, 77, 99, 10];
+// let arr1 = [10, 98, 23, 89, 31, 54, 77, 99, 65, 39, 44, 78, 98];
+// var emptarray = [];
+// for (var i of arr) {
+//     if (arr1.includes(i)) {
+//         emptarray.push(i)
+//     };
+// };
+// console.log(emptarray);
+
+// let name = ["kailash", "priya", "aanu", "rita", "manvi", "moni", "kunal"];
+// let name1 = ["savita", "aanu", 'manvi', "moni", "chandani", "sangita", "radha"];
+// let emptarray = [];
+// for (var i of name) {
+//     if (name1.includes(i)) {
+//         emptarray.push(i)
+//     };
+// };
+// console.log(emptarray);
